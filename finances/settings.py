@@ -1,0 +1,13 @@
+CAT_CASA = 1
+CAT_LAZER = 2
+CAT_ALIMENTACAO = 3
+CAT_EDUCACAO = 4
+CAT_TRANSPORTE = 5
+
+CAT_STRING = {
+    CAT_CASA: 'Casa',
+    CAT_LAZER: 'Lazer',
+    CAT_ALIMENTACAO: 'Alimentação',
+    CAT_EDUCACAO: 'Educação',
+    CAT_TRANSPORTE: 'Transporte'
+}
